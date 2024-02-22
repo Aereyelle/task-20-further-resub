@@ -1,9 +1,9 @@
 """
-I will use an input command to ask the user's name and assign it to a variable
-I will use an input command to ask the user's age and assign it to a variable
-I will use an input command to ask the user's house number and assign it to a variable
-I will use an input command to ask the user's street name and assign it to a variable
-I will print out an f print sentence with the variables included
+ask the user's name and assign it to a variable
+ask the user's age and assign it to a variable
+ask the user's house number and assign it to a variable
+ask the user's street name and assign it to a variable
+print out an f print sentence with the variables included
 """
 
 name=input("What is your name? ")
